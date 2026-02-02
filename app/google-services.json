@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "883709671000",
-    "project_id": "tweetapp-67d80",
-    "storage_bucket": "tweetapp-67d80.firebasestorage.app"
+    "project_number": "533347376521",
+    "project_id": "confessit-cad77",
+    "storage_bucket": "confessit-cad77.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883709671000:android:87aa0987b7e7215fe43c2d",
+        "mobilesdk_app_id": "1:533347376521:android:eabe25d9b9331ca61fd558",
         "android_client_info": {
           "package_name": "com.example.confessit"
         }
@@ -15,26 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJ44zo7FyRbNRe2Cprzb3ESVMYhMiEEjQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:883709671000:android:a7686e2afdd377f0e43c2d",
-        "android_client_info": {
-          "package_name": "com.example.tweetapp"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCJ44zo7FyRbNRe2Cprzb3ESVMYhMiEEjQ"
+          "current_key": "AIzaSyDpf2aawCLKDZd4aRYJTDBJ9kXmDPSZlZM"
         }
       ],
       "services": {
