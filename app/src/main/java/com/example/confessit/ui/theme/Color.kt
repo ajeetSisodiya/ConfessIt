@@ -2,6 +2,12 @@ package com.example.confessit.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val DeepPurple = Color(0xFF120E16)
+val SoftPurple = Color(0xFF9C27B0)
+val Lavender = Color(0xFFE1BEE7)
+val DarkGrey = Color(0xFF1C1B1F)
+val ErrorRed = Color(0xFFF44336)
+
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
